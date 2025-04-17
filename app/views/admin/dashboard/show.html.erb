@@ -1,3 +1,24 @@
-<h1>Admin Dashboard</h1>
-<p>Total Products: <%= @product_count %></p>
-<p>Total Categories: <%= @category_count %></p>
+<header class="page-header">
+  <h1>Admin Dashboard</h1>
+</header>
+
+<div class="row g-4">
+  <div class="col-md-6">
+    <div class="card text-white bg-primary shadow">
+      <div class="card-body">
+        <h5 class="card-title">Total Products</h5>
+        <p class="card-text fs-4"><%= @product_count %></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-6">
+    <div class="card text-white bg-success shadow">
+      <div class="card-body">
+        <h5 class="card-title">Total Categories</h5>
+        <p class="card-text fs-4"><%= @category_count %></p>
+      </div>
+    </div>
+  </div>
+</div>
+
