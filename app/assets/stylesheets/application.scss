@@ -111,3 +111,17 @@ form.button_to {
 .text-danger {
   color: #f38792 !important;
 }
+
+.product-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  .sold-out-badge {
+    font-size: 1em;
+    padding: 0.4em 0.6em;
+    background-color: #dc3545;
+    color: white;
+    border-radius: 0.25rem;
+  }
+}
