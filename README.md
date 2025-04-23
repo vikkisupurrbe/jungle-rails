@@ -31,8 +31,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Stripe
 
 ## Screenshots
-!["Main page"]()\
-!["Cart"]()\
-!["Category"]()\
-!["Login"]()\
-!["Signup"]()
+!["Main page"](https://github.com/vikkisupurrbe/jungle-rails/blob/master/docs/Main%20page.png?raw=true)\
+!["Cart"](https://github.com/vikkisupurrbe/jungle-rails/blob/master/docs/Cart.png?raw=true)\
+!["Category"](https://github.com/vikkisupurrbe/jungle-rails/blob/master/docs/Category.png?raw=true)\
+!["Login"](https://github.com/vikkisupurrbe/jungle-rails/blob/master/docs/Login.png?raw=true)\
+!["Signup"](https://github.com/vikkisupurrbe/jungle-rails/blob/master/docs/Signup.png?raw=true)
