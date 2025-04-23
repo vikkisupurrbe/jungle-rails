@@ -1,4 +1,4 @@
-describe("Home Page", () => {
+describe("Product Details from Home Page", () => {
   it("should visit root", () => {
     cy.visit("/");
   });
@@ -23,5 +23,4 @@ describe("Home Page", () => {
     cy.get(".products-show").should("exist"); // Section for product detail
     cy.get(".product-detail h1").should("be.visible"); // Product name
   });
-  
 });
